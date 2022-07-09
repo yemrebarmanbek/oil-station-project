@@ -1,0 +1,10 @@
+C:\Users\yunus emre\Desktop\C# FORM PROJELERİM\Benzin İstasyonu Projesi\Benzin İstasyonu Projesi\bin\Debug\Benzin İstasyonu Projesi.exe.config
+C:\Users\yunus emre\Desktop\C# FORM PROJELERİM\Benzin İstasyonu Projesi\Benzin İstasyonu Projesi\bin\Debug\Benzin İstasyonu Projesi.exe
+C:\Users\yunus emre\Desktop\C# FORM PROJELERİM\Benzin İstasyonu Projesi\Benzin İstasyonu Projesi\bin\Debug\Benzin İstasyonu Projesi.pdb
+C:\Users\yunus emre\Desktop\C# FORM PROJELERİM\Benzin İstasyonu Projesi\Benzin İstasyonu Projesi\obj\Debug\Benzin_İstasyonu_Projesi.Form1.resources
+C:\Users\yunus emre\Desktop\C# FORM PROJELERİM\Benzin İstasyonu Projesi\Benzin İstasyonu Projesi\obj\Debug\Benzin_İstasyonu_Projesi.Properties.Resources.resources
+C:\Users\yunus emre\Desktop\C# FORM PROJELERİM\Benzin İstasyonu Projesi\Benzin İstasyonu Projesi\obj\Debug\Benzin İstasyonu Projesi.csproj.GenerateResource.cache
+C:\Users\yunus emre\Desktop\C# FORM PROJELERİM\Benzin İstasyonu Projesi\Benzin İstasyonu Projesi\obj\Debug\Benzin İstasyonu Projesi.csproj.CoreCompileInputs.cache
+C:\Users\yunus emre\Desktop\C# FORM PROJELERİM\Benzin İstasyonu Projesi\Benzin İstasyonu Projesi\obj\Debug\Benzin İstasyonu Projesi.exe
+C:\Users\yunus emre\Desktop\C# FORM PROJELERİM\Benzin İstasyonu Projesi\Benzin İstasyonu Projesi\obj\Debug\Benzin İstasyonu Projesi.pdb
+C:\Users\yunus emre\Desktop\C# FORM PROJELERİM\Benzin İstasyonu Projesi\Benzin İstasyonu Projesi\obj\Debug\Benzin İstasyonu Projesi.csproj.AssemblyReference.cache
